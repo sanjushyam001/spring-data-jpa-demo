@@ -6,6 +6,8 @@ public class PasswdUtils {
 		
 	}
 	public void decode() {
-		
+		int x=10;
+		int y=20;
+				
 	}
 }
