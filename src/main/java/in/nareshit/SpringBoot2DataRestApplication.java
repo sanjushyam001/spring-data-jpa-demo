@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SpringBoot2DataRestApplication {
 
 	public static void main(String[] args) {
+		System.out.println("Testing!");
 		SpringApplication.run(SpringBoot2DataRestApplication.class, args);
 	}
 
