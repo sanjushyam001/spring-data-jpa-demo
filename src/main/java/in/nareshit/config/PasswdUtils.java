@@ -18,6 +18,10 @@ public class PasswdUtils {
 		int x=10;
 		int y=20;
 		int z=40;
+		
+		double d1=10.0;
+		double d2=15.0;
+		double d4=d1+d2;
 				
 	}
 }
