@@ -10,7 +10,8 @@ public class PasswdUtils {
 
 		int a=0;
 		int b=0;
-
+		//bug fixed 104
+		System.out.println("Changes are made !");
 			
 	}
 	public void decode() {
